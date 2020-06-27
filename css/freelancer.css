@@ -9717,9 +9717,6 @@ a.text-dark:hover, a.text-dark:focus {
 .masthead .masthead-avatar {
   width: 15rem;
 }
-.avatar {
-  width: 150px
-}
 
 @media (min-width: 992px) {
   .masthead {
